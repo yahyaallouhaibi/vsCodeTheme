@@ -1,0 +1,21 @@
+{
+    "name": "yahya-s-theme",
+    "displayName": "Yahya's theme",
+    "description": "peronal theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "elli 5aratak",
+                "uiTheme": "vs-dark",
+                "path": "./themes/elli 5aratak-color-theme.json"
+            }
+        ]
+    }
+}

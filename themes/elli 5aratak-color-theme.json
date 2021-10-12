@@ -84,6 +84,28 @@
 			}
 		},
 		{
+			"name": "State variables",
+			"scope": [
+				"meta.object-literal.key.js"
+			],
+			"settings": {
+				"foreground": "#FF5370"
+			}
+		},
+		{
+			"name": "State variables",
+			"scope": [
+				"meta.object-literal.key.js",
+				"meta.object.member.js",
+				"meta.objectliteral.js",
+				"meta.export.default.js",
+				"source.js"
+			],
+			"settings": {
+				"foreground": "#C792EA"
+			}
+		},
+		{
 			"name": "Operator, Misc",
 			"scope": [
 				"constant.other.color",
